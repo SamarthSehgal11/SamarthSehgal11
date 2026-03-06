@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Samarth Sehgal, a B.Tech Computer Science student passionate about backend development, machine learning, and solving real-world problems with code.<br>I enjoy building scalable applications using Java, Spring Boot, and SQL, and exploring machine learning and data-driven systems with Python. <br>I’m continuously improving my data structures and algorithms skills and working on projects that combine clean backend design with intelligent systems.
+Hi, I’m Samarth Sehgal, a B.Tech Computer Science student passionate about backend development, machine learning, and solving real-world problems with code. I enjoy building scalable applications using Java, Spring Boot, and SQL, and exploring machine learning and data-driven systems with Python. I’m continuously improving my data structures and algorithms skills and working on projects that combine clean backend design with intelligent systems.
 
 
 ## 🌐 Socials:
